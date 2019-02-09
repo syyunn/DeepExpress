@@ -5,8 +5,7 @@ architectural properties of a neural network - such as depth, width, layer
 type - could affect the resulting functions computational property.
 
 This repository mainly rooted on the recently published article, [On the 
-Expressive Power of Deep Neural Networks (2014, Raghu)](http://proceedings.mlr
-.press/v70/raghu17a/raghu17a.pdf)
+Expressive Power of Deep Neural Networks (2014, Raghu)](http://proceedings.mlr.press/v70/raghu17a/raghu17a.pdf)
 
 ## Table of Contents 
 1. Universal Approximation Theorem 
