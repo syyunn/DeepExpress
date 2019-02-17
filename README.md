@@ -45,7 +45,7 @@ This paper had revealed that:
  
  __"Given a neural network with piecewise linear activations (such as ReLU or hard tanh), the function
 it computes is also piecewise linear, a consequence of the fact that composing piecewise linear functions results in a
-piecewise linear function."__
+piecewise linear function."__   
 
 
 ## On number of Linear Region
