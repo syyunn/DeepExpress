@@ -26,7 +26,7 @@ Expressive Power of Deep Neural Networks (Raghu et al, 2017)](http://proceedings
     - *Activation Pattern* (Raghu et al. 2017)
     
         Using the notion of *transition*, where changing an input x to 
-        nearby point $x + \sigma$ 
+        nearby point $x + \sigma $ 
     - 
 
 4. Trajectory 
