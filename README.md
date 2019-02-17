@@ -27,8 +27,10 @@ Expressive Power of Deep Neural Networks (Raghu et al, 2017)](http://proceedings
     
         Using the notion of *transition*, where changing an input x to 
         nearby point x + \sigma 
+    - 
 
-
+4. Trajectory 
+$x(t)$ may be more complicated, and potentially not expressible in closed form
 
 ## References
 
