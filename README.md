@@ -26,12 +26,27 @@ Expressive Power of Deep Neural Networks (Raghu et al, 2017)](http://proceedings
     - *Activation Pattern* (Raghu et al. 2017)
     
         Using the notion of *transition*, where changing an input x to 
-        nearby point $x + \sigma $ 
-    - 
+        nearby point x + $\sigma $ 
+    - *Counting Non Linear Pieces*(Rincon et al. 2014) 
 
 4. Trajectory 
 $x(t)$ may be more complicated, and potentially not expressible in closed form
 
 ## References
 
+##### Use trajectory for measure of complexity 
+
 Raghu, M., Poole, B., Kleinberg, J., Ganguli, S. & Sohl-Dickstein, J.. (2017). On the Expressive Power of Deep Neural Networks. Proceedings of the 34th International Conference on Machine Learning, in PMLR 70:2847-2854
+
+##### Introducing of the concept Linear Region
+Julian Rincon, Adriana Moreo, Gonzalo Alvarez: “Exotic magnetic order in the orbital-selective Mott regime of multiorbital systems”, 2014, Phys. Rev. Lett. 112, 106405 (2014); arXiv:1402.1689. DOI: 10.1103/PhysRevLett.112.106405.
+
+This paper had revealed that:
+ 
+ __"Given a neural network with piecewise linear activations (such as ReLU or hard tanh), the function
+it computes is also piecewise linear, a consequence of the fact that composing piecewise linear functions results in a
+piecewise linear function."__
+
+
+## On number of Linear Region
+
